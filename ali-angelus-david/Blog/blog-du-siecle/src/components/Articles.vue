@@ -85,5 +85,8 @@ const Articles = [
 ];
 </script>
 <style scoped>
+h1{
+    color: rgb(196, 12, 88)
+}
 
 </style>
