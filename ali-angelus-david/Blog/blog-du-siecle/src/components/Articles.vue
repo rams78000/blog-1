@@ -1,6 +1,6 @@
 <template>
 <div>
-    <h1>Hello Vue!</h1>
+    <h1>He Vue!</h1>
     <div v-for="article in articles" :key ="article.title">
         
         <Article :article='article'/>
